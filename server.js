@@ -1,14 +1,16 @@
 /*********************************************************************************
-* *  WEB322 – Assignment 04
-*  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part 
-*  of this assignment has been copied manually or electronically from any other source 
-*  (including 3rd party web sites) or distributed to other students.
-* 
-*  Name: Arshdeep Singh Student ID: 169494218 Date: 20-3-2023
+* WEB322 – Assignment 04
+* I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part
+* of this assignment has been copied manually or electronically from any other source
+* (including 3rd party web sites) or distributed to other students.
 *
-*  Online (Cyclic) Link: 
+* Name: Arshdeep Singh  Student ID: 169494218 Date: 15 February 2023
 *
-********************************************************************************/ 
+* Cyclic Web App URL: https://puce-aware-stingray.cyclic.app/
+*
+* GitHub Repository URL:https://github.com/oyearsh/web-322.git
+*
+********************************************************************************/
 //server.js
 const blogService = require('./blog-service');
 const express = require('express');
